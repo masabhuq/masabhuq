@@ -1,4 +1,4 @@
-I have fascination with computer science and artificial intelligence. 
+I have fascination with computer science and artificial intelligence. <br/>
 I'm a self learner. I learn from various online sources.
 
 I'm currently learning deep learning.
